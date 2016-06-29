@@ -8,6 +8,12 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.0.1",
+    "mongoose": "^4.5.2",
+    "mosca": "^2.0.1",
+    "q": "^1.4.1",
+    "request": "^2.72.0",
+    "request-json": "^0.5.6"
   }
 }
